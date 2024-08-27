@@ -2,10 +2,12 @@
 
 Welcome to the "Python Essential Training Course" repository! This repository contains all the materials, code samples, and resources you need to get started with Python and elevate your skills to the next level.
 
-About This Course
+## About This Course
+
 This course is designed for beginners and intermediate learners looking to solidify their Python programming skills. Through comprehensive lessons and practical exercises, participants will learn the fundamentals of Python, including syntax, data structures, control flow, functions, and modules, along with advanced topics like file handling, error handling, and libraries such as NumPy and Pandas.
 
-Course Structure
+## Course Structure
+
 Module 1: Introduction to Python
 
 Python setup and environment configuration
